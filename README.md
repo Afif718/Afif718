@@ -5,7 +5,7 @@
 - Good understanding of various programming languages (Java, JavaScript, C#, PHP, Python)
 - Familiar with various Linux distros and Netwroking tools (Bash Script, Java Network Programming, Kali-linux, Raspberry Pi, File system, Packet tracer, Wireshark)
 - Good understanding regarding Deep and Dark web
--Exploring and Learning.........
+- Exploring and Learning.........
 
 - 📫 Instagram: @dark_x_matter
 

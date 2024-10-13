@@ -1,5 +1,7 @@
-- 👋 Hi, I’m @Afif718, Computer Science student at UCSI University 
-- 👀 Passonate about Programming, Web development, Cloud, Networking and IoT
-- 📫 LinkedIn: afif-ahamed
+👋 Hi, I’m @Afif718!
+🌐 Passionate about creating impactful digital experiences through programming, web development, cloud solutions, networking, and IoT.
+🚀 I thrive on turning innovative ideas into reality and enjoy exploring cutting-edge technology to solve real-world problems.
+💡 Always learning, always evolving – let’s connect and share insights!
+
 
 

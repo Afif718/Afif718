@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Mustahoshin Hossain Ahamed Afif (@Afif718)
+# 👋 Hi, I’m Mustahoshin Hossain Ahamed Afif (M. H. A. Afif)
 
 🔧 Lead Engineer (Software & Hardware) at [SystemSage Solutions](https://systemsage.tech)  
 

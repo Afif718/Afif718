@@ -13,7 +13,7 @@ I’m passionate about **software engineering, AI, IoT, and innovative system de
 ### 🌍 Let’s Connect
 - 💼 [Website](https://afif.systemsage.tech)  
 - 🌐 [Company](https://systemsage.tech)  
-- 📫 [LinkedIn](https://linkedin.com/in/afif718)  
+- 📫 [LinkedIn](https://linkedin.com/in/mha-afif)  
 
 ---
 ✨ *“Innovating today for a smarter, sustainable tomorrow.”*

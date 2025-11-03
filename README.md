@@ -22,5 +22,5 @@ I’m passionate about **software engineering, AI, IoT, and innovative system de
 
 <img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/a185f7db-5547-4e92-998f-55f3e237da05" />
 
-<img width="150" height="680" alt="image" src="https://github.com/user-attachments/assets/7ae4448a-3b62-4638-9106-bdbe5204d3a1" />
+<img width="1450" height="680" alt="image" src="https://github.com/user-attachments/assets/7ae4448a-3b62-4638-9106-bdbe5204d3a1" />
 

@@ -18,8 +18,7 @@ I’m passionate about **software engineering, AI, IoT, and innovative system de
 ---
 ✨ *“Innovating today for a smarter, sustainable tomorrow.”*
 <p>
-  <img width="150" height="150" src="https://github.com/user-attachments/assets/97524149-0cf9-4a06-8739-98d67205be3e" />
-  <img width="150" height="150" src="https://github.com/user-attachments/assets/a185f7db-5547-4e92-998f-55f3e237da05" />
+  <img width="150" height="150" src="https://github.com/user-attachments/assets/97524149-0cf9-4a06-8739-98d67205be3e" style="margin-right:10px;" />
+  <img width="150" height="150" src="https://github.com/user-attachments/assets/a185f7db-5547-4e92-998f-55f3e237da05" style="margin-right:10px;" />
   <img width="324" height="250" src="https://github.com/user-attachments/assets/7ae4448a-3b62-4638-9106-bdbe5204d3a1" />
 </p>
-
